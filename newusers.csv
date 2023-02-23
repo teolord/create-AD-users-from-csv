@@ -1,2 +1,2 @@
-Firstname,Lastname,Maildomain,SAM,OU&DC,Password,Description
+Firstname,Lastname,Maildomain,SAM,OU,Password,Description
 Jim,Halpert,theoffice.com,jhalpert,OU=Standard Users,OU=Users,DC=theoffice,DC=com,BigBoobz,Sales
